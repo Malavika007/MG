@@ -1,0 +1,93 @@
+body {
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), beige);
+    width: 100%;
+    height: 100%;
+}
+
+header{
+    display: flex;
+    color: rgb(0, 0, 0);
+    justify-content: space-between;
+   
+    border-radius: 10px;
+    height: 100px;
+}
+
+.subs{
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+
+h3 {
+    margin: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1 {
+    margin: 10px;
+    padding: 20px;
+    font-family: 'Oswald', sans-serif;
+}
+
+img {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.intro {
+    display:flex
+}
+
+footer{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    background-color: black;
+    border-radius: 10px;
+    height: 50px;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+}
+
+.skills {
+    width: 40px;
+}
+hr {
+ 
+    border: 2px solid black;
+    border-radius: 2px;
+}
+
+.project-title {
+    font-family: 'Oswald', sans-serif;
+    margin: 20px;
+}
+
+.gif {
+    width: 30rem;
+    height: 30rem;
+}
+
+.project-columns {
+    display: flex;
+}
+
+.clock {
+    width:300px;
+    height: 300px;
+}
+
+.work {
+    display: block;
+}
